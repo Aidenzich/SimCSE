@@ -133,3 +133,16 @@ dmypy.json
 data
 result
 .venv-cu11
+
+SICK
+SNLI
+SST
+STS
+SUBJ
+TREC
+MPQA
+MR
+MRPC
+CR
+**/senteval.tar
+**/wiki1m_for_simcse.txt
